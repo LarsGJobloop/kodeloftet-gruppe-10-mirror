@@ -1,4 +1,6 @@
-# kodeloftet-gruppe-10-mirror
+# Mirror
+
+Et delvis eksempel på hvordan en konstruerer nettsider basert på skisser.
 
 ![Side Dekonstruksjon](documentation/page-deconstruction.png)
 

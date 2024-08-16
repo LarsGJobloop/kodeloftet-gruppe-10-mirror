@@ -1,3 +1,13 @@
 # kodeloftet-gruppe-10-mirror
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LarsGJobloop/kodeloftet-gruppe-10-mirror)
+![Side Dekonstruksjon](documentation/page-deconstruction.png)
+
+## Referanser
+
+- [Landingly](https://landingly.co/)
+
+    Samling av landingsider
+
+- [Excalidraw](https://excalidraw.com/)
+
+    Skisserings program
